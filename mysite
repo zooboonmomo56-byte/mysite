@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>سایت من</title>
+</head>
+
+<body style="text-align:center; background-color:lightblue;">
+
+  <h1>سلام! این سایت من با گوشی ساخته شده 📱</h1>
+
+  <p>من دارم یاد می‌گیرم سایت بسازم</p>
+
+  <button onclick="alert('عالیه!')">
+    کلیک کن
+  </button>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>سایت حرفه‌ای من</title>
+</head>
+
+<body style="text-align:center; background-color:lightyellow;">
+
+  <!-- عنوان -->
+  <h1>به سایت من خوش آمدید 🌍</h1>
+
+  <!-- منو -->
+  <h3>منو:</h3>
+
+  <a href="#">خانه</a> |
+  <a href="#">درباره من</a> |
+  <a href="#">تماس با من</a>
+
+  <hr>
+
+  <!-- عکس -->
+  <h3>عکس:</h3>
+
+  <img src="https://picsum.photos/200" width="200">
+
+  <hr>
+
+  <!-- متن -->
+  <p>این یک سایت نمونه است که با گوشی ساختم 📱</p>
+
+  <hr>
+
+  <!-- دکمه -->
+  <button onclick="alert('خوش آمدید به سایت من!')">
+    کلیک کن
+  </button>
+
+  <hr>
+
+  <!-- لینک -->
+  <h3>لینک:</h3>
+
+  <a href="https://google.com">
+    برو به گوگل
+  </a>
+
+</body>
+
+</html>
+<img src="<img src="https://images.unsplash.com/photo-1601758123927-7f28c165dc41" width="300">" width="200">
+<button>افزودن +</button>
+<a href="https://google.com">برو به گوگل</a>
+<a href="#">خانه</a>
